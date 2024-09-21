@@ -9,7 +9,7 @@
 - [Conclusion and Recommendations](#conclusion-and-recommendations)
 
 ## Introduction
-![image](https://github.com/user-attachments/assets/aa121c36-ecee-480f-86f5-a0162df44191)![image](https://github.com/user-attachments/assets/32059971-0b59-45da-8803-ccdd9ce62fe6)
+![image](https://github.com/user-attachments/assets/aa121c36-ecee-480f-86f5-a0162df44191)
 
 
 ### Project Description
