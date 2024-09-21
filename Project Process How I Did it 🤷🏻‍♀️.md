@@ -28,14 +28,14 @@ I imported CSV data into Power Query in Power BI, creating calculated columns an
 **Dashboard Design and Visualization**
 The dashboard design starts with choosing visuals for each metric, followed by selecting the color palette and layout style. Then, I arrange visuals and adjust page navigation across all report pages. In this simple version, you can see how the I approach solves the user needs.
 
-**Recommendations**
-Key clients fall within the age range of 25-45.<br>
-Gender and marital status do not significantly impact key clients, as top preferred spending categories remain consistent.<br>
-Salaried employees and freelancers are key clients.<br>
-Key client locations: Mumbai, Delhi, and Bengaluru.<br>
-Delhi is a significant market; focus on increasing the client base in this region.<br>
-Festive months (August, September, October) show high spending and income utilization percentages.<br>
-Top preferred spending categories: Bills, Groceries, Electronics, Health and Wellness, and Travel.<br>
+**Recommendations**<br>
+⚡ Key clients fall within the age range of 25-45.<br>
+⚡ Gender and marital status do not significantly impact key clients, as top preferred spending categories remain consistent.<br>
+⚡ Salaried employees and freelancers are key clients.<br>
+⚡ Key client locations: Mumbai, Delhi, and Bengaluru.<br>
+⚡ Delhi is a significant market; focus on increasing the client base in this region.<br>
+⚡ Festive months (August, September, October) show high spending and income utilization percentages.<br>
+⚡ Top preferred spending categories: Bills, Groceries, Electronics, Health and Wellness, and Travel.<br>
 
 
 👉Tailor offers for cashback and lifestyle benefits in the new Mitron Bank credit card line.
