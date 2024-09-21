@@ -9,7 +9,8 @@
 - [Conclusion and Recommendations](#conclusion-and-recommendations)
 
 ## Introduction
-![image](https://github.com/user-attachments/assets/aa121c36-ecee-480f-86f5-a0162df44191)
+![image](https://github.com/user-attachments/assets/aa121c36-ecee-480f-86f5-a0162df44191)![image](https://github.com/user-attachments/assets/32059971-0b59-45da-8803-ccdd9ce62fe6)
+
 
 ### Project Description
 This project is a part of Codebasics resume challenge 8 and focuses on creating a Power BI visualization report for Mitron Bank. The objective is to identify key clients and their preferred spending categories, enabling Mitron Bank to tailor offers and promotions more effectively. The pilot project involved analyzing demographic, income utilization, and spending patterns to draw insights.
